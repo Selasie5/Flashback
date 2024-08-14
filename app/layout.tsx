@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Flash Card",
+  title: "Flashback",
   description: "A Flash Card Application to revise important things",
 };
 
