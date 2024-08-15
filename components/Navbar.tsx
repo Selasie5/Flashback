@@ -4,9 +4,7 @@ export default function Navbar() {
   return (
     <header>
       <nav className="p-4 bg-teal-600 dark:bg-teal-300 text-white">
-        <h1 className="text-2xl font-bold text-center">
-          <Link href="/">Flashback</Link>
-        </h1>
+        
       </nav>
     </header>
   );
